@@ -23,13 +23,12 @@ This deepened my understanding of noise functions, mesh construction, and 3D ren
 
 ## 🖼️ Visual Results
 
-**2D Cellular-Noise Heightmap (FastNoiseLite, Grayscale)**  
-![2D Heightmap](images/2d_fastnoiseheightmap.png)
+| 2D Cellular-Noise Heightmap | 3D Terrain Mesh |
+| --- | --- |
+| <img src="images/2d_fastnoiseheightmap.png" width="420" alt="2D cellular-noise heightmap"> | <img src="images/3d_fastnoiseheightmap.png" width="420" alt="3D terrain mesh from heightmap"> |
+| <sub>FastNoiseLite, grayscale</sub> | <sub>Vertex heights sampled from heightmap</sub> |
 
-**3D Terrain Mesh (Vertex Heights Sampled from Heightmap)**  
-![3D Terrain](images/3d_fastnoiseheightmap.png)
-
-*Screenshots from my personal implementation (no source code shared per course policy).*
+<p align="center"><em>Screenshots from my personal implementation (no source code shared per course policy).</em></p>
 
 ---
 
